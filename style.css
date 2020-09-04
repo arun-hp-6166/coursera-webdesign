@@ -1,0 +1,39 @@
+body{
+    font-size: 16px;
+    margin: 0;
+    
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+#navbarTogglerDemo02{
+    width: 90%;
+}
+
+
+
+
+#chicken,#beef,#sushi{
+    height: 350px;
+    margin-top: 15%;
+    width: 100%;
+    border: 2px solid black;
+    font-size: 2em;
+    padding: 30px;
+    overflow: hidden;
+    background-color: grey;
+    margin-bottom: 5%;
+
+
+    
+}
+.navbar-nav{
+    text-align: center;
+}
